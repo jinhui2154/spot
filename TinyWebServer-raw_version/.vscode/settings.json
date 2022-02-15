@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "fstream": "c",
+        "istream": "c",
+        "ostream": "c",
+        "unordered_map": "c",
+        "numeric": "c",
+        "SQL_CONNECTION_POOL.H": "cpp",
+        "string": "c",
+        "functional": "cpp",
+        "LOG.H": "cpp",
+        "HTTP_CONN.H": "cpp"
+    }
+}
